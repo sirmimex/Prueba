@@ -1,5 +1,6 @@
 <?php
 	//PRIMERA MODIFICACION
+	//Segunda Modificacion
   $registros=array();
   $lasInsertID = 0;
   $conexion= new mysqli("127.0.0.1","root","N1ct@3l","Registros");
